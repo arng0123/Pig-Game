@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/arng0123/Pig-Game/static/css/main.6f2774d0.chunk.css",
-    "main.js": "/arng0123/Pig-Game/static/js/main.435e312e.chunk.js",
-    "main.js.map": "/arng0123/Pig-Game/static/js/main.435e312e.chunk.js.map",
-    "runtime-main.js": "/arng0123/Pig-Game/static/js/runtime-main.47485d30.js",
-    "runtime-main.js.map": "/arng0123/Pig-Game/static/js/runtime-main.47485d30.js.map",
-    "static/js/2.e25d308d.chunk.js": "/arng0123/Pig-Game/static/js/2.e25d308d.chunk.js",
-    "static/js/2.e25d308d.chunk.js.map": "/arng0123/Pig-Game/static/js/2.e25d308d.chunk.js.map",
-    "index.html": "/arng0123/Pig-Game/index.html",
-    "static/css/main.6f2774d0.chunk.css.map": "/arng0123/Pig-Game/static/css/main.6f2774d0.chunk.css.map",
-    "static/js/2.e25d308d.chunk.js.LICENSE.txt": "/arng0123/Pig-Game/static/js/2.e25d308d.chunk.js.LICENSE.txt"
+    "main.css": "/Pig-Game/static/css/main.6f2774d0.chunk.css",
+    "main.js": "/Pig-Game/static/js/main.435e312e.chunk.js",
+    "main.js.map": "/Pig-Game/static/js/main.435e312e.chunk.js.map",
+    "runtime-main.js": "/Pig-Game/static/js/runtime-main.981c9919.js",
+    "runtime-main.js.map": "/Pig-Game/static/js/runtime-main.981c9919.js.map",
+    "static/js/2.e25d308d.chunk.js": "/Pig-Game/static/js/2.e25d308d.chunk.js",
+    "static/js/2.e25d308d.chunk.js.map": "/Pig-Game/static/js/2.e25d308d.chunk.js.map",
+    "index.html": "/Pig-Game/index.html",
+    "static/css/main.6f2774d0.chunk.css.map": "/Pig-Game/static/css/main.6f2774d0.chunk.css.map",
+    "static/js/2.e25d308d.chunk.js.LICENSE.txt": "/Pig-Game/static/js/2.e25d308d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.47485d30.js",
+    "static/js/runtime-main.981c9919.js",
     "static/js/2.e25d308d.chunk.js",
     "static/css/main.6f2774d0.chunk.css",
     "static/js/main.435e312e.chunk.js"
