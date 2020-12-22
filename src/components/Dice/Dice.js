@@ -16,12 +16,12 @@ const {values} = props
 
     return (
         <div >
-            {values.map( (num) => {
+            {values.map( (num, idx) => {
                 let img = diceArr[num-1]
                 return (
-                <>
-                <img src = {img} alt={`dice ${num}`}/> 
-                </>
+                    <>
+                        <img src = {img} alt={`dice ${num}`} key={idx}/> 
+                    </>
                 )
                 
             })}
