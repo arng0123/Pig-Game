@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Pig-Game/static/css/main.6f2774d0.chunk.css",
-    "main.js": "/Pig-Game/static/js/main.435e312e.chunk.js",
-    "main.js.map": "/Pig-Game/static/js/main.435e312e.chunk.js.map",
+    "main.css": "/Pig-Game/static/css/main.0c017ce6.chunk.css",
+    "main.js": "/Pig-Game/static/js/main.5a37828e.chunk.js",
+    "main.js.map": "/Pig-Game/static/js/main.5a37828e.chunk.js.map",
     "runtime-main.js": "/Pig-Game/static/js/runtime-main.981c9919.js",
     "runtime-main.js.map": "/Pig-Game/static/js/runtime-main.981c9919.js.map",
     "static/js/2.e25d308d.chunk.js": "/Pig-Game/static/js/2.e25d308d.chunk.js",
     "static/js/2.e25d308d.chunk.js.map": "/Pig-Game/static/js/2.e25d308d.chunk.js.map",
     "index.html": "/Pig-Game/index.html",
-    "static/css/main.6f2774d0.chunk.css.map": "/Pig-Game/static/css/main.6f2774d0.chunk.css.map",
+    "static/css/main.0c017ce6.chunk.css.map": "/Pig-Game/static/css/main.0c017ce6.chunk.css.map",
     "static/js/2.e25d308d.chunk.js.LICENSE.txt": "/Pig-Game/static/js/2.e25d308d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.981c9919.js",
     "static/js/2.e25d308d.chunk.js",
-    "static/css/main.6f2774d0.chunk.css",
-    "static/js/main.435e312e.chunk.js"
+    "static/css/main.0c017ce6.chunk.css",
+    "static/js/main.5a37828e.chunk.js"
   ]
 }
