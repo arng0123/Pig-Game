@@ -14,6 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ### Teck Stack
+
 - HTML/CSS
 - React (hooks)
 - JavaScript / Node.js
@@ -22,6 +23,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ### To Get Up and Running:
+
 ```
 git clone https://github.com/arng0123/Pig-Game
 npm install
