@@ -5,6 +5,6 @@ export default function Button (props) {
     const {text, action, disable} = props
 
     return (
-        <button onClick={action} disabled={disable} class="btn"> {text} </button>
+        <button onClick={action} disabled={disable} className="btn"> {text} </button>
     )
 }

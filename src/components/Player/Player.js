@@ -10,13 +10,12 @@ function Player (props) {
         str.push((currentPlayer === player.display) && (isGameActive) ? "name current" : "name")
         str.push(player.winner ? 'winner' : '')
 
-        console.log(str, player.totalScore, player.gameNumToWin)
         return str.join(' ')
     }
 
     return (
-        <div class="col-1-of-2">
-             <div class="total-score">
+        <div className="col-1-of-2">
+             <div className="total-score">
                 {player.totalScore}    
             </div>
             
@@ -24,13 +23,13 @@ function Player (props) {
 
             <br/>
 
-            <div class="round-score">
+            <div className="round-score">
                 Round Score: <b>{player.currentScore}</b>
             </div>
            
             <br/>
 
-            <div class="games-won">
+            <div className="games-won">
                 Games Won: {player.pastGamesWon} 
                 <br/>
                 Total Games Score: {player.pastGameScore}

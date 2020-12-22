@@ -6,7 +6,7 @@ function PlayerSpace (props) {
     const {playerStats, currentPlayer, isGameActive} = props
 
     return (
-        <div class='row'>
+        <div className='row'>
             { Object.keys(playerStats).map( person => {
                 return <Player key = {person} player={playerStats[person]} currentPlayer={currentPlayer} isGameActive = {isGameActive}/>
                 })
