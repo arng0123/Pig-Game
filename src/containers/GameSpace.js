@@ -107,9 +107,13 @@ export default function GameSpace(props) {
         </>
     )
 
+    const newGameButton = (
+        <Button text = {(playerStats["Player 1"].pastGamesWon || playerStats["Player 2"].pastGamesWon) && !isGameActive ? "Play Again" : "New Game" } action = {newGame}/>
+    )
+
     return (
         <div>
-            <Button text = {(playerStats["Player 1"].pastGamesWon || playerStats["Player 2"].pastGamesWon) && !isGameActive ? "Play Again" : "New Game" } action = {newGame}/>
+            {!isGameActive ? newGameButton : null}
             
             {isGameActive ? activeGameButtons : null}
             
