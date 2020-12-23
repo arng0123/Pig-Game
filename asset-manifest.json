@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Pig-Game/static/css/main.0c017ce6.chunk.css",
-    "main.js": "/Pig-Game/static/js/main.baa6ea4d.chunk.js",
-    "main.js.map": "/Pig-Game/static/js/main.baa6ea4d.chunk.js.map",
+    "main.js": "/Pig-Game/static/js/main.bbbd72f3.chunk.js",
+    "main.js.map": "/Pig-Game/static/js/main.bbbd72f3.chunk.js.map",
     "runtime-main.js": "/Pig-Game/static/js/runtime-main.981c9919.js",
     "runtime-main.js.map": "/Pig-Game/static/js/runtime-main.981c9919.js.map",
     "static/js/2.e25d308d.chunk.js": "/Pig-Game/static/js/2.e25d308d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.981c9919.js",
     "static/js/2.e25d308d.chunk.js",
     "static/css/main.0c017ce6.chunk.css",
-    "static/js/main.baa6ea4d.chunk.js"
+    "static/js/main.bbbd72f3.chunk.js"
   ]
 }
